@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jonathan Suarez
 
-<!--
-**JmillerDevs/JmillerDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy Ingeniero de Sistemas, estudiante de analisis de datos , Me apasiona las bases de datos
 
-Here are some ideas to get you started:
+## Sobre mí �
+- 🔭 Actualmente estoy trabajando en Curso de MySql
+- - 🌱 Estoy aprendiendo sobre bases de datos
+- 👯 Busco colaborar en proyectos referente a mejoras y entrenamiento de IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas 🛠️
+Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+
+- **Lenguajes de programación:** Excel, PowerBi, Tableau
+- **Bases de datos:** MySQL, MongoDB, PostgreSQL
+
